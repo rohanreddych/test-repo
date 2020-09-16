@@ -29,6 +29,4 @@ jobs:
         run: echo Hello, world!
       
       - name: Neural Style Transfer Action
-        uses: rohanreddych/Neural-Style-Transfer-Action@v0.1.4
-
-
+        uses: rohanreddych/Neural-Style-Transfer-Action@v0.1.5
